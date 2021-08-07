@@ -1,0 +1,5 @@
+name: Balloons
+version: 1.0
+author: FaintCloudy
+main: me.faintcloudy.balloons.Balloons
+api-version: 1.17
